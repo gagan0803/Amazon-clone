@@ -1,1 +1,1 @@
-# Amazon-clone
+This project involves creating a static front-end clone of the Amazon website using HTML and CSS. The aim is to replicate the appearance and layout of Amazon's homepage, including key sections like the navbar, search bar, product categories, and footer. This project provides a comprehensive understanding of HTML and CSS fundamentals, responsive design principles, and practical experience in web development.
